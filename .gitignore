@@ -1,0 +1,8 @@
+# Allowlist: this repo is public. Never commit the local gh binary/config (.tools, .gh-config, ./gh).
+/*
+!/.gitignore
+!/.github/
+!/build/
+!/site/
+!/README.md
+__pycache__/
